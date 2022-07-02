@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "immer": "^9.0.15",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0"
+  }
+}
